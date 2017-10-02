@@ -13,3 +13,9 @@ The file was incorrectly named binfo.txt ... Rename it to info.txt (only using j
 
 ## Challenge 4:
 Create a new folder within the challenge4 folder called "copyfolder". Then copy info.txt into that folder.
+
+## Challenge 5:
+Replace all of the "-"'s inside the text file with spaces.
+
+## Challenge 6:
+Display all files that end with ".txt". Try to not hardcode the file names.
