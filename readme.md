@@ -1,5 +1,4 @@
-### Intro to node assignment
-All of the challenges can and should be done only using js.
+### FS Exercises
 fs docs - https://nodejs.org/api/fs.html
 
 ## Challenge 1:
