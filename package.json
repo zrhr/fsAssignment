@@ -1,0 +1,19 @@
+{
+  "name": "fsassignment",
+  "version": "1.0.0",
+  "description": "fs docs - https://nodejs.org/api/fs.html",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrhr/fsAssignment.git"
+  },
+  "author": "Dan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zrhr/fsAssignment/issues"
+  },
+  "homepage": "https://github.com/zrhr/fsAssignment#readme"
+}
